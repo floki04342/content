@@ -17,9 +17,11 @@ Posty (Instagram + Facebook) i artykuły blogowe do publikacji.
 ### Blogi
 | Data | Marka | Temat | Plik |
 |---|---|---|---|
-| 02.10 | GlassPro | Glastrennwände im Büro | [PDF](2026-10/blogi/GlassPro_Blog1_Glastrennwaende_im_Buero.pdf) |
+| 02.10 | GlassPro | Glastrennwände im Büro: Systeme, Kosten und Planung | [PDF](2026-10/blogi/GlassPro_Blog1_Glastrennwaende_im_Buero.pdf), [HTML WordPress](2026-10/blogi/wordpress/GlassPro_Blog1_Glastrennwaende_im_Buero.html) |
 | 02.10 | Traumglass | Duschkabine nach Mass: Was kostet sie in der Schweiz? | [PDF](2026-10/blogi/Traumglass_Blog1_Duschkabine_nach_Mass_Kosten.pdf) |
 | 06.10 | GlassPro | Brandschutz-Glastrennwände in der Schweiz | [PDF](2026-10/blogi/GlassPro_Blog2_Brandschutz-Glastrennwaende.pdf) |
 | 06.10 | Traumglass | Glasarten im Überblick | [PDF](2026-10/blogi/Traumglass_Blog2_Glasarten_im_Ueberblick.pdf) |
 | 08.10 | Traumglass | Glasschiebetür nach Mass: Systeme, Preise und Planung | [PDF](2026-10/blogi/Traumglass_Blog3_Glasschiebetuer_nach_Mass.pdf) |
 | 13.10 | Traumglass | Walk-in-Dusche planen: Masse, Spritzschutz und Glaswand | [PDF](2026-10/blogi/Traumglass_Blog4_Walk-in-Dusche_planen.pdf) |
+| 15.10 | GlassPro | Büroakustik verbessern mit Glaswänden | [PDF](2026-10/blogi/GlassPro_Blog3_Bueroakustik-Glaswand.pdf) |
+| 22.10 | GlassPro | Glastrennwand oder Trockenbauwand? | [PDF](2026-10/blogi/GlassPro_Blog4_Glastrennwand-vs-Trockenbauwand.pdf) |
